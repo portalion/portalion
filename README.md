@@ -4,7 +4,10 @@
 I am ordinary computer science student from Poland, who loves programming.
 
 ## Currently working at? 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=portalion&repo=Frontend-Mentor)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=portalion&repo=Frontend-Mentor&theme=tokyonight)]
+
+## What I'm currently learning?
+I'm trying to learn how to make good github repositories, and Javascript.
 <!--
 **portalion/portalion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,4 +23,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Some stats for you!!!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=portalion&theme=radical)
