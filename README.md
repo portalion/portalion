@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi there
 
+## Who am I?
+I am ordinary computer science student from Poland, who loves programming.
+
+## Currently working at? 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=portalion&repo=Frontend-Mentor)]
 <!--
 **portalion/portalion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
