@@ -5,7 +5,8 @@ I am ordinary computer science student from Poland, who loves programming.
 
 ## Currently working at? 
 - Learning JS
-<br>
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=portalion&repo=Frontend-Mentor&theme=tokyonight)](https://github.com/portalion/Frontend-Mentor)
 
 ## What I'm currently learning?
