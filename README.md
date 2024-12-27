@@ -15,3 +15,4 @@ I'm trying to learn how to make best server architecture for big apps
 
 ## Some stats for you!!!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=portalion&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=portalion&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
