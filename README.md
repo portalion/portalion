@@ -1,7 +1,7 @@
 # Hi there
 
 ## Who am I?
-I am ordinary computer science student from Poland, who loves programming.
+I am software developer from Poland, who loves programming.
 
 ## Currently working at? 
 - Developing musescore like app in typescript + electron
