@@ -4,13 +4,14 @@
 I am ordinary computer science student from Poland, who loves programming.
 
 ## Currently working at? 
-- Learning ASP.NET
+- Developing musescore like app in typescript + electron
+- Improving my repositories, and resume projects
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=portalion&repo=Frontend-Mentor&theme=tokyonight)](https://github.com/portalion/Frontend-Mentor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=portalion&repo=Frontend-Mentor&theme=tokyonight)](https://github.com/portalion/DictionaryGame)
 
 ## What I'm currently learning?
-I'm trying to learn how to make good github repositories, and make professional ASP.NET/Blazor code.
+I'm trying to learn how to make best server architecture for big apps
 
 ## Some stats for you!!!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=portalion&theme=radical)
