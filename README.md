@@ -9,6 +9,7 @@ I am software developer from Poland, who loves programming.
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=portalion&repo=DictionaryGame&theme=tokyonight)](https://github.com/portalion/DictionaryGame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=portalion&repo=WordleWinApi&theme=tokyonight)](https://github.com/portalion/WordleWinApi)
 
 ## What I'm currently learning?
 I'm trying to learn how to make best server architecture for big apps
