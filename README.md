@@ -4,11 +4,11 @@
 I am software developer from Poland, who loves programming.
 
 ## Currently working at? 
-- Developing musescore like app in typescript + electron
+- Developing own Cad/Cam system
 - Improving my repositories, and resume projects
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=portalion&repo=DictionaryGame&theme=tokyonight)](https://github.com/portalion/DictionaryGame)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=portalion&repo=OpenglGeometry&theme=tokyonight)](https://github.com/portalion/OpenglGeometry)
 
 ## What I'm currently learning?
 I'm trying to learn how to make best server architecture for big apps
